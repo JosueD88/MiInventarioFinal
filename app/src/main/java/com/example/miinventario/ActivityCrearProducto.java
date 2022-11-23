@@ -25,8 +25,6 @@ public class ActivityCrearProducto extends AppCompatActivity {
     RecyclerView reciclador;
 
 
-    ArrayList<String> listaDatos2;
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);

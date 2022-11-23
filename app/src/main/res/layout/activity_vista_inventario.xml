@@ -49,7 +49,7 @@
         android:layout_height="50dp"
         android:layout_marginStart="12dp"
         android:layout_marginTop="24dp"
-        android:text="Filtrar"
+        android:text="🔍︎"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toEndOf="@+id/editTextTextBarraBusqueda"
